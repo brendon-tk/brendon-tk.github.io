@@ -3,11 +3,11 @@
 <img align="right" src="https://github.com/brendon-tk.png" width="180" height="180">
 
 ## 🎯 About Me
-I'm a Business, Data and Cybersecurity Analyst with over four years of experience in the financial sector, across **CBZ Bank**, **BancABC** and **Ai SPARK**.
+I'm a technology professional with **6+ years of experience** across **government, financial services, healthcare and technology**. I currently work as an **Information Technology Specialist II** at the **Virginia Department of Social Services**, delivering dependable technology that supports staff, communities and statewide operations.
 
-My work spans payment infrastructure, systems and technology services, cybersecurity, and data analytics. At BancABC I worked as a Technology Services, Cybersecurity, Data and Senior Systems Analyst and helped keep critical services at **99.99% SLA compliance**. I enjoy turning complex systems and data into insights that technical and business teams can act on.
+My background covers **enterprise IT, cloud services, IT service management, cybersecurity, networking, digital payments, business analysis and data analytics**. Earlier in my career at **CBZ Bank**, **BancABC** and **Ai SPARK**, I supported payment infrastructure, led digital improvements and helped keep critical banking services at **99.99% SLA compliance**. I like breaking down complex problems, improving processes and building solutions that deliver measurable value.
 
-I hold a **Master's in Business Analytics from William & Mary**, with a focus on machine learning, data storytelling and strategic thinking. This profile showcases hands-on projects in machine learning, anomaly detection, fraud and threat detection, and IT service management.
+I hold a **Master's in Business Analytics from William & Mary**. This profile showcases hands-on projects in machine learning, anomaly detection, fraud and threat detection, and IT service management. Beyond the technical work, I'm guided by **integrity, service, excellence and compassion**, values rooted in my faith as a Seventh-day Adventist.
 
 ---
 
