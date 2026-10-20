@@ -20,14 +20,20 @@ I hold a **Master's in Business Analytics from William & Mary**. This profile sh
 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?logo=scipy&logoColor=white)
 
-**Machine Learning & Deep Learning**  
+**Machine Learning & Neural Networks**  
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?logo=python&logoColor=white)
+![Statsmodels](https://img.shields.io/badge/Statsmodels-3B4D61?logo=python&logoColor=white)
 ![imbalanced-learn](https://img.shields.io/badge/imbalanced--learn-4B8BBE?logo=python&logoColor=white)
+
+![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?logo=python&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LightGBM-02569B?logo=python&logoColor=white)
+![CatBoost](https://img.shields.io/badge/CatBoost-FFCC00?logo=python&logoColor=black)
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)
 
 **Data Visualization & BI**  
@@ -38,19 +44,35 @@ I hold a **Master's in Business Analytics from William & Mary**. This profile sh
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?logo=python&logoColor=white)
 
+**Databases & Data Platforms**  
+![SQL](https://img.shields.io/badge/SQL-003B57?logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white)
+
+![NoSQL](https://img.shields.io/badge/NoSQL-47A248?logo=mongodb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?logo=snowflake&logoColor=white)
+
 **Cybersecurity & Payments**  
 ![Splunk](https://img.shields.io/badge/Splunk-000000?logo=splunk&logoColor=white)
 ![Anomaly Detection](https://img.shields.io/badge/Anomaly%20Detection-B22222?logo=securityscorecard&logoColor=white)
 ![Postilion](https://img.shields.io/badge/Postilion-1F4E79?logoColor=white)
 
-**Workflow & DevOps**  
+**Workflow & Collaboration**  
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=white)
+
+**Operating Systems**  
+![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white)
 
 ---
 
