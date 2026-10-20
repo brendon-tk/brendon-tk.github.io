@@ -1,85 +1,156 @@
-<h1 align="center">Hi, I'm Brendon T. Matsikinya 👋</h1>
-<h3 align="center">IT Professional · Cybersecurity Enthusiast · Data Analyst</h3>
+# 👋 Hi, I'm Brendon T. Matsikinya
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/brendon-t-matsikinya/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:brendonmatsikinya@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://brendon-tk.github.io"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/></a>
-</p>
+<img align="right" src="https://github.com/brendon-tk.png" width="180" height="180">
 
----
+## 🎯 About Me
+I'm a Business, Data and Cybersecurity Analyst with over four years of experience in the financial sector, across **CBZ Bank**, **BancABC** and **Ai SPARK**.
 
-## 🧑‍💻 About Me
+My work spans payment infrastructure, systems and technology services, cybersecurity, and data analytics. At BancABC I worked as a Technology Services, Cybersecurity, Data and Senior Systems Analyst and helped keep critical services at **99.99% SLA compliance**. I enjoy turning complex systems and data into insights that technical and business teams can act on.
 
-I'm passionate about **Information Technology, Cybersecurity, and Data**: building reliable systems, protecting them from threats, and turning raw data into decisions.
-
-- 🔐 Focused on **security fundamentals**: network defense, threat analysis, vulnerability management and secure configuration
-- 📊 Working with **data**: cleaning, analysing and visualising data to uncover insights
-- 🖥️ Hands-on with **IT infrastructure**: systems administration, networking and troubleshooting
-- 🌱 Currently learning: _<!-- e.g. SOC analysis, cloud security, Python for data science -->_
-- 🎯 Open to: **internships, entry-level roles and collaborations** in IT, cybersecurity and data
+I hold a **Master's in Business Analytics from William & Mary**, with a focus on machine learning, data storytelling and strategic thinking. This profile showcases hands-on projects in machine learning, anomaly detection, fraud and threat detection, and IT service management.
 
 ---
 
-## 🛠️ Skills & Tools
+## 🛠️ Tools & Technologies
 
-**Cybersecurity**
+**Languages & Libraries**  
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
 
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=flat-square&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
 
-**Data & Analytics**
+**Machine Learning & Deep Learning**  
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?logo=python&logoColor=white)
+![imbalanced-learn](https://img.shields.io/badge/imbalanced--learn-4B8BBE?logo=python&logoColor=white)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)
 
-**IT & Infrastructure**
+**Data Visualization & BI**  
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=flat-square&logo=windows&logoColor=white)
-![Networking](https://img.shields.io/badge/Networking-005073?style=flat-square&logo=cisco&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?logo=python&logoColor=white)
 
-> ✏️ _Keep only the tools you actually use; remove any badge line that doesn't apply._
+**Cybersecurity & Payments**  
+![Splunk](https://img.shields.io/badge/Splunk-000000?logo=splunk&logoColor=white)
+![Anomaly Detection](https://img.shields.io/badge/Anomaly%20Detection-B22222?logo=securityscorecard&logoColor=white)
+![Postilion](https://img.shields.io/badge/Postilion-1F4E79?logoColor=white)
 
----
+**Workflow & DevOps**  
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 
-## 🚀 Featured Projects
-
-| Project | Description | Tech |
-|---|---|---|
-| [Project name](https://github.com/brendon-tk/REPO) | One line on the problem it solves and the result | Python, SQL |
-| [Project name](https://github.com/brendon-tk/REPO) | e.g. Network traffic analysis / home security lab | Wireshark, Linux |
-| [Project name](https://github.com/brendon-tk/REPO) | e.g. Data dashboard built from a public dataset | Power BI, Excel |
-
----
-
-## 📜 Certifications
-
-<!-- Replace with your real certifications from LinkedIn -->
-- 🏅 _Certification name_ — _Issuer_ (_Year_)
-- 🏅 _Certification name_ — _Issuer_ (_Year_)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 
 ---
 
-## 📈 GitHub Stats
+## 📂 Projects
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=brendon-tk&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brendon-tk&layout=compact&theme=github_dark&hide_border=true" alt="Top languages"/>
-</p>
+### 🔹 [Where's My Ride? — Top 10, Virginia Datathon 2025](https://github.com/brendon-tk/Where-s-My-Ride---Top-10-project-at-Virginia-Datathon-2025) ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Project-blue)
+
+**Business Overview**  
+Transit riders often can't tell whether they've just missed the bus. Our team (Code Blooded) built an app that predicts bus travel times for Virginia public transit and suggests alternatives when a rider is likely to miss their ride.
+
+**Outcome**
+- Placed in the **Top 10 at the Virginia Datathon 2025**
+- Trained a **scikit-learn** model on stop sequences, GPS coordinates, trip durations and day/time features
+- Validated predictions against actual travel times with correlation analysis and visual comparison
+- Built a recommendation layer that suggests **walking, biking or scooters** based on distance, weather and availability
+
+
+### 🔹 [Credit Card Fraud Detection](https://github.com/brendon-tk/Credit-Card-Fraud-Detection-Model) ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Project-blue)
+
+<img src="https://github.com/user-attachments/assets/63e58a84-75e4-49b4-bccf-802f92260f3c" width="600">
+
+**Business Overview**  
+Fraudulent transactions are rare but costly, which makes them hard to catch. This project builds a classifier on **284,807 card transactions, only 492 of them fraudulent**, to flag fraud without overwhelming analysts with false alarms.
+
+**Outcome**
+- Handled extreme class imbalance with **SMOTE, undersampling and cost-sensitive learning**
+- Compared Logistic Regression, Decision Trees, Random Forest, XGBoost and Neural Networks
+- **Random Forest achieved a 0.99 ROC-AUC** on the validation set
+- Tuned for precision and recall so fraud is caught while legitimate customers are not disrupted
+
+
+### 🔹 [DDoS Attack Detection](https://github.com/brendon-tk/Predicting-Distributed-Denial-of-Service-Attacks) ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Project-red)
+
+<img src="https://github.com/user-attachments/assets/80837633-b54b-4267-8baa-b2e19aed03eb" width="600">
+
+**Business Overview**  
+DDoS attacks can take critical services offline in minutes. This project analyzes network traffic patterns to detect and classify DDoS activity early, as a foundation for proactive defense.
+
+**Outcome**
+- Engineered features from **traffic volume and packet patterns** that separate normal from malicious activity
+- Trained and compared Logistic Regression, Decision Tree and Random Forest classifiers
+- Achieved **high detection accuracy**, evaluated with confusion matrices and ROC curves
+- **Recommendation →** Use the identified traffic indicators as early-warning signals in network monitoring
+
+
+### 🔹 [Hybrid Movie Recommender System](https://github.com/brendon-tk/Recommender-System) ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Project-blue)
+
+<img src="https://raw.githubusercontent.com/brendon-tk/Recommender-System/main/1.png" width="600">
+
+**Business Overview**  
+A Netflix-style recommender that helps users discover films they'll enjoy, built with a four-person team using MovieLens and TMDB data.
+
+**Outcome**
+- Combined **content-based filtering** (TF-IDF and cosine similarity on overviews, cast, crew, genres and keywords) with **collaborative filtering (SVD)**
+- Enriched movie data in real time through the **TMDB API**
+- Delivered an interactive **Streamlit** app for personalized recommendations
+
+
+### 🔹 [Industries Driving Virginia's GDP](https://github.com/brendon-tk/MachineLearning-Predicting-Virginia-GDP-Art-of-the-Deal) ![Data Analytics](https://img.shields.io/badge/Type-Data%20Analytics-orange)
+
+**Business Overview**  
+Which industries contribute most to Virginia's economy? This project uses statistical modeling in R to identify the sectors that matter most for policy and investment decisions.
+
+**Outcome**
+- Won **"Best Presentation for a Non-Technical Audience"** 🏆
+- **Government** and **Real Estate** showed the strongest positive contribution to GDP
+- **Education** and **Mining** showed an inverse relationship
+- Interaction effects (sector × year) did not improve the model, so a **simpler, more interpretable model** was kept
+
+
+### 🔹 [IT Help Desk Ticketing System](https://github.com/brendon-tk/IT-Help-Desk) ![IT Services](https://img.shields.io/badge/IT%20Services-Project-green)
+
+<img src="https://raw.githubusercontent.com/brendon-tk/IT-Help-Desk/main/Dashboard.png" width="600">
+
+**Business Overview**  
+IT teams need a single place to log, prioritize and resolve issues. This project deploys a Dockerized Peppermint ticketing system for fast, repeatable setup.
+
+**Outcome**
+- Containerized deployment with **Docker Compose**
+- Ticket creation, assignment and priority levels with **role-based access** (Admin, Support, User)
+- Real-time status updates, email notifications and logging for full audit trails
+
+
+### 🔹 [VGG16 Video Frame Analysis](https://github.com/brendon-tk/VGG16_VIDEO_FRAMING) ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-Project-purple)
+
+**Business Overview**  
+A video analytics pipeline that extracts high-level features from video frames for classification, object detection and summarization.
+
+**Outcome**
+- Built frame extraction and resizing with **OpenCV**, with configurable sampling rates
+- Used a pre-trained **VGG16** network (TensorFlow/Keras) for feature extraction, with optional fine-tuning
+- Exported features for downstream tasks and visualized the feature space
 
 ---
 
-## 🤝 Let's Connect
+## 📫 Let's Connect
+- [LinkedIn](https://www.linkedin.com/in/brendon-t-matsikinya/)
+- [Email](mailto:brendonmatsikinya@gmail.com)
+- [Portfolio](https://brendon-cybersec.vercel.app/)
+- [Resume](https://brendon-cybersec.vercel.app/Brendon.pdf)
+- [All Projects](https://github.com/brendon-tk?tab=repositories)
 
-I'm always happy to talk about security, data or IT projects. Reach out on [LinkedIn](https://www.linkedin.com/in/brendon-t-matsikinya/) or by [email](mailto:brendonmatsikinya@gmail.com).
-
-<p align="center"><i>"Secure the system. Understand the data. Keep learning."</i></p>
+---
